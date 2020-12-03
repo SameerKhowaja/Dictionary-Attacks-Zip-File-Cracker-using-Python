@@ -1,0 +1,9 @@
+You can download full rockyou.txt file from link below:
+https://www.kaggle.com/wjburns/common-password-list-rockyoutxt
+
+Create Zip file with password on it and place password under rockyou.txt file.
+Run zip_cracker.py
+
+Need to install python package
+- zipfile
+- tqdm
